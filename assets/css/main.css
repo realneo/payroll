@@ -1,0 +1,36 @@
+/************************************
+ * Top Header
+ ************************************/
+#top_header{
+    position: absolute;
+    background-color:#234;
+    width:100%;
+    height:15%;
+    left:0px;
+    top:0%;
+    border-bottom: solid 2px #567;
+}
+
+/************************************
+ * Container
+ ************************************/
+#container{
+    position: absolute;
+    background-color:#345;
+    width:100%;
+    height:80%;
+    left:0px;
+    top:15.3%;
+}
+
+/************************************
+ * Footer
+ ************************************/
+#footer{
+    position: absolute;
+    background-color:#000;
+    width:100%;
+    height:5%;
+    left:0px;
+    top:95%;
+}
