@@ -1,4 +1,12 @@
 /************************************
+ * Overall
+ ************************************/
+*{
+    font-family: arial;
+}
+
+
+/************************************
  * Top Header
  ************************************/
 #top_header{
@@ -11,6 +19,27 @@
     border-bottom: solid 2px #567;
 }
 
+#top_logo{
+    float:left;
+    width:100px;
+    height:100px;
+    background-color: #fff;
+}
+
+#top_company_name{
+    float:left;
+    padding:10px;
+    color:#fff;
+    font-size:20px;
+}
+
+#software_name{
+    float:right;
+    padding:10px;
+    padding-top:40px;
+    color:#fff;
+    font-size:14px;
+}
 /************************************
  * Container
  ************************************/
@@ -21,6 +50,15 @@
     height:80%;
     left:0px;
     top:15.3%;
+}
+
+/************************************
+ * Container Class
+ ************************************/
+
+.container{
+    position:relative;
+    padding:10px;    
 }
 
 /************************************

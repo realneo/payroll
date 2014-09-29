@@ -11,7 +11,11 @@
     </head>
     <body>
         <div id='top_header'>
-            
+            <div class='container'>
+                <div id='top_logo'></div><!-- top_logo -->
+                <div id='top_company_name'><h3>Home Shopping Center</h3></div>
+                <div id='software_name'>Payroll : Version 1.0</div>
+            </div><!-- .container -->
         </div><!-- top_header -->
         
         <div id='container'>
